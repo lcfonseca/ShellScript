@@ -2,7 +2,7 @@
 # Shellscript:  Public                                           #
 # Autor     :   Patrick Reis                                     #
 # Data      :   08/07/2016                                       #
-# Categoria :   CleanDiskSpace                                   #
+# Categoria :   CleanDiskSpace ExceptTheHidden                   #
 # Versão    :   Version 1.0                                      #
 ##################################################################
 
